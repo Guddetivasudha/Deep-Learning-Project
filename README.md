@@ -51,4 +51,4 @@ Epochs	100
 Augmentation	(Optional) Horizontal Flip, Rotation
 Color Conditioning	RGB image filled with desired color
 
-We use L1Loss because it tends to produce less blurry results compared to MSELoss for image generation tasks.
+I used L1Loss because it tends to produce less blurry results compared to MSELoss for image generation tasks.
